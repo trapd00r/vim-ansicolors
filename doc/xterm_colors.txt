@@ -1,0 +1,16 @@
+Black 
+Bright Gray
+Red
+Bright Red
+Green
+Bright Green
+Yellow
+Bright Yellow
+Blue
+Bright Blue
+Magenta
+Bright Magenta
+Cyan
+Bright Cyan
+White
+Bright White
